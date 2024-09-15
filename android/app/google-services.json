@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166014259575",
+    "firebase_url": "https://melodic-metrics-332419-default-rtdb.firebaseio.com",
+    "project_id": "melodic-metrics-332419",
+    "storage_bucket": "melodic-metrics-332419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166014259575:android:ed9ef2709b65c681435172",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166014259575-1crqakhe2726ojv9cd0ksnva4jq74nta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQp0dISV-MnH6oGtYGD_tYXKagAdW12g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166014259575-1crqakhe2726ojv9cd0ksnva4jq74nta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166014259575-hitfomsbillfkpr7lgea0v62b0e6k7m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPage.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
